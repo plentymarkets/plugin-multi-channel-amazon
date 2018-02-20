@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "Amazon",
   "marketplaceName": "Amazon",
   "description": "Über die Anbindung des Online-Marktplatzes Amazon wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf Amazon zu listen.",
