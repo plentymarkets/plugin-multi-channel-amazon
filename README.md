@@ -1,22 +1,22 @@
 ![plentymarkets Logo](http://www.plentymarkets.eu/layout/pm/images/logo/plentymarkets-logo.jpg)
 
-# Amazon plugin for plentymarkets 7.x
+# Amazon plugin for PlentyONE
 
-This is the Amazon plugin developed by plentymarkets. Amazon is already integrated in your plentymarkets 7 system.
+This is the Amazon plugin developed by PlentyONE. Amazon is already integrated in your PlentyONE system.
 
 ## Requirements
 
-This is a plugin for [plentymarkets 7](https://www.plentymarkets.com).
+This is a plugin for [PlentyONE](https://www.plentyone.com/).
 
 ## Installing
 
-For detailed information about plugin provisioning refer to [plentymarkets developers](https://developers.plentymarkets.com/dev-doc/basics#plugin-provisioning).
+For detailed information about plugin provisioning refer to [PlentyONE developers](https://developers.plentymarkets.com/dev-doc/basics#plugin-provisioning).
 
 ## Plugin documentation
 
-- Learn how to create your [first plentymarkets plugin](https://developers.plentymarkets.com/tutorials/helloworld)
-- Overview of plentymarkets [plugin interfaces](https://developers.plentymarkets.com/dev-doc/basics#guide-interface)
-- The plentymarkets [REST API](https://developers.plentymarkets.com/rest-doc/introduction)
+- Learn how to create your [first PlentyONE plugin](https://developers.plentymarkets.com/tutorials/helloworld)
+- Overview of PlentyONE [plugin interfaces](https://developers.plentymarkets.com/dev-doc/basics#guide-interface)
+- The PlentyONE [REST API]( https://developers.plentymarkets.com/en-gb/plentymarkets-rest-api/index.html)
 
 ## Join our community
 
